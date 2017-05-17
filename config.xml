@@ -14,5 +14,4 @@ Trabajo final Catalogo de Servicios
 JESUS ERNESTO MARCHENA SANCHEZ 
 </author>
 <icon src="img/icon.png" />
-<gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
 </widget>
