@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Catalogo de Servicios PhoneGap3.0</name>
+
+<description>
+Trabajo final Catalogo de Servicios
+</description>
+
+<author href="https://araconsultoriaysoluciones.com" email="ing.jmarchena@gmail.com">
+JESUS ERNESTO MARCHENA SANCHEZ 
+</author>
+<icon src="img/icon.png" />
+<gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
+</widget>
